@@ -1,2 +1,2 @@
 # my_Portfolio
-<img width="1493" height="718" alt="Screenshot 2026-06-15 170601" src="https://github.com/user-attachments/assets/c8266758-07a0-45b6-bca6-4eed617f48fe" />
+<img width="1170" height="664" alt="Screenshot 2026-06-17 144321" src="https://github.com/user-attachments/assets/8d3496bd-94db-4e46-aea8-2f33e47b52b6" />
